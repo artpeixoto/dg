@@ -1,10 +1,10 @@
 ## dg
 
 A (technically) simple language that compiles to CPython bytecode. **DISCLAIMER**: this project is just for fun, please don't use it for anything serious, thanks.
-(note from forker: 
+```(note from forker: 
 Lies. filthy lies from filthy author and his shennanigans. 
 This is extremely useful and powerful and actually helped solve some real world problems so take that pyos (btw love yo bro this is so much fun)
-)
+)```
 
 ### Requirements
 
